@@ -1,0 +1,26 @@
+﻿1	Bács-Kiskun	Kecskemét	Izsáki út	10.
+2	Bács-Kiskun	Baja	Arad utca	4.
+3	Bács-Kiskun	Kiskunhalas	Attila utca	70.
+4	Bács-Kiskun	Kiskőrös	Bognár utca	25.
+5	Bács-Kiskun	Soltvadkert	Csendes utca	19.
+6	Bács-Kiskun	Kalocsa	Csík utca	40.
+7	Bács-Kiskun	Hajós	Csiga utca	86.
+8	Bács-Kiskun	Izsák	Dankó utca	55.
+9	Pest	Budapest I. ker.	Dália utca	31.
+10	Pest	Budapest II. ker.	Daru utca	77.
+11	Pest	Budapest IV. ler.	Erdész utca	56.
+12	Pest	Budapest XI. ker.	Fácán utca	35.
+13	Pest	Budapest XIV. ker.	Farkas utca	10.
+14	Pest	Nagykőrös	Fehér utca	35.
+15	Pest	Fót	Harmat utca	48.
+16	Pest	Vác	Hentes utca	42.
+17	Pest	Kistarcsa	Mező utca	69.
+18	Pest 	Dabas	Rózsa utca	12.
+19	Csongrád	Szeged	Iparos utca	29.
+20	Csongrád	Szentes	Kakas utca	47.
+21	Csongrád	Kistelek	Kaszás utca	84.
+22	Csongrád	Mórahalom	Kertész utca	17.
+23	Csongrád	Ásotthalom	Komp utca	19.
+24	Csongrád	Eperjes	Lehel utca	36.
+25	Csongrád	Röszke	Liget utca	67.
+26	Csongrád	Ópusztaszer	Malom utca	12.

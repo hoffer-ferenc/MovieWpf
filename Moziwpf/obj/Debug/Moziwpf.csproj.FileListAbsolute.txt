@@ -1,0 +1,79 @@
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\bin\Debug\Moziwpf.exe.config
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\bin\Debug\Moziwpf.exe
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\bin\Debug\Moziwpf.pdb
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\Moziwpf.csprojResolveAssemblyReference.cache
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\MainWindow.g.cs
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\App.g.cs
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\Moziwpf_MarkupCompile.cache
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\Moziwpf_MarkupCompile.lref
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\MainWindow.baml
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\Moziwpf.g.resources
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\Moziwpf.Properties.Resources.resources
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\Moziwpf.csproj.GenerateResource.Cache
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\Moziwpf.exe
+c:\users\ferenc\documents\visual studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\Moziwpf.pdb
+C:\Users\Ferenc\Documents\Visual Studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\mozivagyfilm.g.cs
+C:\Users\Ferenc\Documents\Visual Studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\mozivagyfilm.baml
+C:\Users\Ferenc\Documents\Visual Studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\filmek.g.cs
+C:\Users\Ferenc\Documents\Visual Studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\filmek.baml
+C:\Users\Ferenc\Documents\Visual Studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\filmfeltolt.g.cs
+C:\Users\Ferenc\Documents\Visual Studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\mozifeltolt.g.cs
+C:\Users\Ferenc\Documents\Visual Studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\uzemeltetovalasztas.g.cs
+C:\Users\Ferenc\Documents\Visual Studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\filmfeltolt.baml
+C:\Users\Ferenc\Documents\Visual Studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\mozifeltolt.baml
+C:\Users\Ferenc\Documents\Visual Studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\uzemeltetovalasztas.baml
+C:\Users\Ferenc\Documents\Visual Studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\mozihely.g.cs
+C:\Users\Ferenc\Documents\Visual Studio 2015\Projects\Moziwpf\Moziwpf\obj\Debug\mozihely.baml
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\bin\Debug\Moziwpf.exe.config
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\Moziwpf.exe
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\Moziwpf.pdb
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\bin\Debug\Moziwpf.exe
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\bin\Debug\Moziwpf.pdb
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\Moziwpf.csprojResolveAssemblyReference.cache
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\filmek.g.cs
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\filmfeltolt.g.cs
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\MainWindow.g.cs
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\mozifeltolt.g.cs
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\mozivagyfilm.g.cs
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\uzemeltetovalasztas.g.cs
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\mozihely.g.cs
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\App.g.cs
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\Moziwpf_MarkupCompile.cache
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\Moziwpf_MarkupCompile.lref
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\filmek.baml
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\filmfeltolt.baml
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\MainWindow.baml
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\mozifeltolt.baml
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\mozivagyfilm.baml
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\uzemeltetovalasztas.baml
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\mozihely.baml
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\Moziwpf.g.resources
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\Moziwpf.Properties.Resources.resources
+C:\Users\Ferenc\Desktop\Moziwpf\Moziwpf\obj\Debug\Moziwpf.csproj.GenerateResource.Cache
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\bin\Debug\Moziwpf.exe.config
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\bin\Debug\Moziwpf.exe
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\bin\Debug\Moziwpf.pdb
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\Moziwpf.csprojAssemblyReference.cache
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\filmek.g.cs
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\filmfeltolt.g.cs
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\MainWindow.g.cs
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\mozifeltolt.g.cs
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\mozivagyfilm.g.cs
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\uzemeltetovalasztas.g.cs
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\mozihely.g.cs
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\App.g.cs
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\Moziwpf_MarkupCompile.cache
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\Moziwpf_MarkupCompile.lref
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\filmek.baml
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\filmfeltolt.baml
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\MainWindow.baml
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\mozifeltolt.baml
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\mozivagyfilm.baml
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\uzemeltetovalasztas.baml
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\mozihely.baml
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\Moziwpf.g.resources
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\Moziwpf.Properties.Resources.resources
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\Moziwpf.csproj.GenerateResource.cache
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\Moziwpf.csproj.CoreCompileInputs.cache
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\Moziwpf.exe
+C:\Users\Ferenc\Desktop\alap\NJ\WPF\Moziwpf\Moziwpf\obj\Debug\Moziwpf.pdb

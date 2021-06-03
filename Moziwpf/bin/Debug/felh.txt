@@ -1,0 +1,33 @@
+﻿0	admin	admin21321	uzemelteto	1
+0	admin21321	admin21321	uzemelteto	1
+0	21321	2131	uzemelteto	1
+0	21321	2131	uzemelteto	1
+0	dsadas	21321d	latogato	0
+0	ffff	fff	uzemelteto	1
+0	admin	admin	uzemelteto	1
+0	admin	admin	latogato	0
+0	admin	admin	latogato	0
+0	admin	admi12	uzemelteto	1
+0	admin2131	3211d12	uzemelteto	1
+0	sad12	213ddd	latogato	0
+0	99999	9999	latogato	0
+0	admin	admin11	uzemelteto	1
+0	admi21313	333	uzemelteto	1
+0	213	213	uzemelteto	1
+0	213	213	uzemelteto	1
+0	213213	1232132	uzemelteto	1
+0	33333	333333	uzemelteto	1
+0	21321ds	21321e	uzemelteto	1
+0	admin1	33	uzemelteto	1
+0	admin	213213	uzemelteto	1
+0		adsada	latogato	0
+0		adsada	latogato	0
+0	213	adsada	latogato	0
+0	213	2131	uzemelteto	1
+0	ad1231	321321	uzemelteto	1
+0	321321	12313	uzemelteto	1
+0	admin	amdin	uzemelteto	1
+0	admin	admin	uzemelteto	1
+0	admin	admin22	uzemelteto	1
+0	ad22	add2	latogato	0
+0	ferenc	pista	latogato	0

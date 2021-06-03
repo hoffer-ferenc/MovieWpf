@@ -1,0 +1,14 @@
+﻿<Window x:Class="Moziwpf.mozivagyfilm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Moziwpf"
+        mc:Ignorable="d"
+        Title="Kérem válasszon mire szeretne keresni! " Height="300" Width="300">
+    <Grid>
+        <Button x:Name="mozi" Content="Mozik Keresése" HorizontalAlignment="Left" Margin="34,83,0,0" VerticalAlignment="Top" Width="95" Height="108" Click="mozi_Click"/>
+        <Button x:Name="film" Content="Filmek Keresése" HorizontalAlignment="Left" Margin="169,83,0,0" VerticalAlignment="Top" Width="94" Height="108" Click="film_Click"/>
+
+    </Grid>
+</Window>
